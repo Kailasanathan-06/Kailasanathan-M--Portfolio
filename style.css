@@ -146,16 +146,20 @@ body{
 }
 
 .Achievement{
-    text-align: center;
     margin: 10px;
     color: #f0f0f0;
     background-color: #2d2d2d;
     border-radius: 20px;
     border-color: darkblue;
     border-style: solid;
+    text-align: center;
+    display: inline-block;
+    height: auto;
+    width: 100%;
 }
 
 .hackathon{
+
     margin: 10px;
     color: #f0f0f0;
     background-color: #2d2d2d;
