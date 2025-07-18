@@ -61,6 +61,9 @@ body{
 }
 
 .Contact{
+    display: inline-block;
+    width:100%;
+    height: auto;
     text-align: center;
     margin: 10px;
     color: #f0f0f0;
@@ -121,6 +124,9 @@ body{
 .resume-img{
         padding: 20px;
         img{
+            max-width: 100%;
+            height: auto;
+            object-fit: cover;
             display: inline-block;
             height: auto;;
             margin: 20px;
